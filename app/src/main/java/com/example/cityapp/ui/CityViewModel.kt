@@ -1,4 +1,4 @@
-package com.example.cityapp.ui.theme
+package com.example.cityapp.ui
 
 import androidx.lifecycle.ViewModel
 import com.example.cityapp.Data.Detail
