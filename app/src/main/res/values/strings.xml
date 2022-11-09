@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">City App</string>
+    <string name="list"> %s List</string>
+    <string name="detail">Detail Screen </string>
+</resources>
