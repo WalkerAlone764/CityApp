@@ -1,11 +1,8 @@
-package com.example.cityapp.ui.theme
+package com.example.cityapp.ui
 
 import android.annotation.SuppressLint
-import android.content.ClipDescription
 import android.content.Context
 import android.content.Intent
-import android.util.Log
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
